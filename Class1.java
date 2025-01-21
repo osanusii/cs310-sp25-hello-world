@@ -15,6 +15,6 @@ public class Class1 {
         // v3.0 (FIXED)
     }
     private void f4() {
-        // v4.0 (under development)
+        // v4.0 (complete)
     }
 }
