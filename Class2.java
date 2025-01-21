@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Olamilekan Sanusi
  */
 
 public class Class2 {
